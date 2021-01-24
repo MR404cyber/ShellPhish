@@ -79,7 +79,7 @@ printf "\e[1;92m (______/ |_| |_| \____)|_||_||_|      |_| |_||_|(___/ |_| |_| \
 printf "\n"
 printf "\e[1;93m       .:.:.\e[0m\e[1;94m Phishing Tool Moded by MR.404 \e[0m\e[1;93m.:.:.\e[0m\n\n"
 printf "  \e[101m\e[1;77m:: Disclaimer: TOOLS PHISING     ::\e[0m\n"
-printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by ShellPhish ::\e[0m\n"
+printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by MR.404 ::\e[0m\n"
 printf " \n"
 printf " \e[36;1m.:. Choose any social site which you want to hack .:.\e[0m\n"
 printf " \n"
